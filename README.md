@@ -1,4 +1,4 @@
-- 👋 I’m Rishav
+- 👋 Rishav
 <img width="431" height="446" alt="image" src="https://github.com/user-attachments/assets/5d136b64-d212-41fc-a1ac-72a5e9acd66a" />
 
 
